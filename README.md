@@ -8,7 +8,7 @@ Automated personal finance tracker. Set your budgeting objectives and gain insig
 ## <ins>Pre-requisites</ins>:
 
 1) Have Microsoft Excel installed on your machine
-2) Have some familiarity with Microsoft Excel (<ins>Basic formulas, navigating the ribbon, refreshing pivot tables</ins>)
+2) Have some familiarity with Microsoft Excel (*Basic formulas, navigating the ribbon, refreshing pivot tables*)
 
 ## <ins>How to get started</ins>:
 
