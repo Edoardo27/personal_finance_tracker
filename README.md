@@ -3,7 +3,7 @@ Automated personal finance tracker. Set your budgeting objectives and gain insig
 
 **<ins>Built in</ins>**: *Excel*
 
-**<ins>Note</ins>**: *ALL DATA IN THE FILE IS DUMMY DATA*
+**<ins>Note</ins>**: The file is populated with dummy data
 
 ## <ins>Pre-requisites</ins>:
 
