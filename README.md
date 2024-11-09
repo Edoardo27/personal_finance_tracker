@@ -13,6 +13,7 @@ Automated personal finance tracker. Set your budgeting objectives and gain insig
 ## <ins>How to get started</ins>:
 
 1) Download the file
-2) Enter the file. Start from the first tab on the left. Follow the instructions in the yellow box.
-3) Once read the instructions in the first tab, keep navigating the rest of the tabs in the proposed sequence (Left to right).
-4) Read the instructions in the other tabs as well and familiarize yourself with the functionality of each.
+2) Enter the file. Start from the first tab ("Budget") on the left. Follow the instructions in the yellow box.
+3) Once you have read the instructions in the first tab, keep navigating the rest of the tabs following the proposed order (Left to right).
+4) Read the instructions in the other tabs as well to familiarize yourself with the functionality/purpose of each.
+5) You're ready to start tracking your life away.
