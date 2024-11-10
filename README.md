@@ -1,5 +1,5 @@
 # <ins>Personal Finance Tracker</ins>
-Automated personal finance tracker. Set your budgeting objectives and gain insights on income, expenses, and savings trends over time by populating and navigating the custom-made tabs within the file.
+Automated personal finance tracker. Populate the custom-made tabs within the file, set your budgeting objectives, and gain insights into your income, expenses, and savings trends over time.
 
 **<ins>Built in</ins>**: *Excel*
 
